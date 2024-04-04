@@ -802,7 +802,7 @@ Note: This list is likely not a perfect list there might be papers missed.
 |Particle Filter with Stable Embedding for State Estimation of the Rigid Body Attitude System on the Set of Unit Quaternions|Hee-deok Jang, Jae-Hyeon Park, Dong Eui Chang|Joint Mechanism|
 |End-To-End Reinforcement Learning for Time Optimal Quadcopter Flight|Robin Ferede, Christophe De Wagter, Dario Izzo, Guido De Croon|Joint Mechanism|
 |Quadrolltor: A Reconfigurable Quadrotor with Controlled Rolling and Turning|Huaiyuan Jia, Runze Ding, Kaixu Dong, Songnan Bai, Pakpong Chirarattananon|Joint Mechanism|
-|Co-Design Optimisation of Morphing Topology and Control of Winged Drones|Fabio Bergonti, Gabriele Nava, Valentin Wueest, Antonello Paolino, Giuseppe L'erario, Daniele Pucci, Dario Floreano|Joint Mechanism|
+|[Co-Design Optimisation of Morphing Topology and Control of Winged Drones](https://github.com/ami-iit/paper_bergonti_2024_icra_codesign-morphing-drones)|Fabio Bergonti, Gabriele Nava, Valentin Wueest, Antonello Paolino, Giuseppe L'erario, Daniele Pucci, Dario Floreano|Joint Mechanism|
 |Robust Control for Bidirectional Thrust Quadrotors under Instantaneously Drastic Disturbances|Zujian Chen, Mo Shaolin, Botao Zhang, Hui Cheng, Jiyu Li|Kinematics|
 |Topological Exploration Using Segmented Map with Keyframe Contribution in Subterranean Environments|Boseong Kim, Hyunki Seong, David Hyunchul Shim|Kinematics|
 |A Powerline Inspection UAV Equipped with Dexterous, Lockable Gripping Mechanisms for Autonomous Perching and Contact Rolling|Angus Lynch, Corey Duguid, Joao Buzzatto, Minas Liarokapis|Kinematics|
