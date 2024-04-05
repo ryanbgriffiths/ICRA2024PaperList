@@ -4,6 +4,8 @@ This repo contains a list of all the papers being presented at ICRA2024. Along w
 
 There is also a google sheets version with abstracts [here](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?usp=sharing)
 
+*If you want add a link to a webpage/code for a paper send a pull request with the link on the paper title.*
+
 Note: This list is likely not a perfect list there might be papers missed. 
 
 # Paper List
