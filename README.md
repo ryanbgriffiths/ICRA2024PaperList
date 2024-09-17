@@ -4,7 +4,7 @@ This repo contains a list of all the papers being presented at ICRA2024. Along w
 
 There is also a google sheets version with abstracts [here](https://docs.google.com/spreadsheets/d/1z1IK0fxNZBEF7IiWZhM7TdK5dvNUvwnj3KwO5u0B91o/edit?usp=sharing)
 
-Offical paper list and download links can be found [here](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding).
+Official paper list and download links can be found [here](https://ieeexplore.ieee.org/xpl/conhome/10609961/proceeding).
 
 Note: This list is likely not a perfect list there might be papers missed. 
 
